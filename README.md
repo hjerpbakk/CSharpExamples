@@ -1,4 +1,4 @@
-CSharpExamples
+C# Examples
 ==============
 
 A collection of examples and demonstration code using C#:
