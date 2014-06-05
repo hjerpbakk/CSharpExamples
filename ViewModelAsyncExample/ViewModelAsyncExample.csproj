@@ -3,8 +3,6 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>10.0.0</ProductVersion>
-    <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{C7EFF7BF-A1D9-4D1D-8BBD-A07718E2FAB7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>ViewModelAsyncExample</RootNamespace>
